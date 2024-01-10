@@ -1,0 +1,19 @@
+.home>h2{
+    margin-bottom: 30px;
+    background-color: #2B547E;
+    padding: 40px;
+    font-weight: 70px;
+    font-size: 40px;
+    border-bottom:1px solid  #2B547E;
+    color:aliceblue;
+    margin-top: 20px;
+
+
+}
+.d-flex{
+    width: 300px !important;
+    margin-left: 875px;
+}
+.icon{
+   
+}

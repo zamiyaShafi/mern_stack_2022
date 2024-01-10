@@ -1,0 +1,14 @@
+icons{
+    display: flex;
+    flex-direction: row;
+    padding: 40px;
+    
+}
+.sideicons{
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+}
+.headbar{
+    margin-top:-20;
+}
